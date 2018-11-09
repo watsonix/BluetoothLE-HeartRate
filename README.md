@@ -13,7 +13,7 @@ I split up functions where it seemed logical, improved error/bounds-checking, an
 
 ## Instructions
 
-* Clone this repo: `git clone https://github.com/chbrown/BluetoothLE-HeartRate`
+* Clone this repo: 
 * Attach the Polar H7 to its strap and put it on.
 * Ensure no other applications or devices are connected (listening) to the Polar H7.
 * Run `npm install`, then `node server.js` (or `npm start`, which relies on the default npm script to do the same thing).
