@@ -12,6 +12,6 @@
   "author": "Christopher Brown <io@henrian.com>",
   "license": "MIT",
   "dependencies": {
-    "noble": "^1.8.1"
+    "noble-mac": "Timeular/noble-mac"
   }
 }

@@ -1,4 +1,4 @@
-const noble = require('noble')
+const noble = require('noble-mac')
 
 /**
 Ensure that noble is ready, then scan for peripherals implementing the given service UUIDs.
